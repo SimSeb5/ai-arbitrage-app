@@ -1,0 +1,8 @@
+city,country,price_per_sqm_local,rent_per_sqm_local_per_month,currency,source,sample_date
+Lisbon,Portugal,5200,22,EUR,re_sample,2025-08-20
+Paris,France,11000,33,EUR,re_sample,2025-08-20
+Dubai,United Arab Emirates,17000,80,AED,re_sample,2025-08-20
+Miami,United States,7000,42,USD,re_sample,2025-08-20
+Zurich,Switzerland,14500,48,CHF,re_sample,2025-08-20
+Warsaw,Poland,28000,120,PLN,re_sample,2025-08-20
+Sao Paulo,Brazil,12000,60,BRL,re_sample,2025-08-20

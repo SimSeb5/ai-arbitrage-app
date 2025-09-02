@@ -1,0 +1,11 @@
+category,service_name,seniority,country,currency,rate_local_per_hour,source,sample_date
+service,Web development,senior,United States,USD,85,market_sample,2025-08-20
+service,Web development,senior,India,INR,2200,market_sample,2025-08-20
+service,Web development,senior,Vietnam,VND,450000,market_sample,2025-08-20
+service,Web development,senior,Brazil,BRL,95,market_sample,2025-08-20
+service,Web development,senior,Poland,PLN,160,market_sample,2025-08-20
+service,Graphic design,mid,United States,USD,50,market_sample,2025-08-20
+service,Graphic design,mid,Philippines,PHP,900,market_sample,2025-08-20
+service,Graphic design,mid,Argentina,ARS,25000,market_sample,2025-08-20
+service,Copywriting,senior,United States,USD,70,market_sample,2025-08-20
+service,Copywriting,senior,Egypt,EGP,950,market_sample,2025-08-20

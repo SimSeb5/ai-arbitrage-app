@@ -1,0 +1,16 @@
+category,item_name,brand,sku,country,city,currency,price_local,unit,source,sample_date
+product,iPhone 15 Pro 128GB,Apple,IP15P-128,Switzerland,Zurich,CHF,1049,unit,retail_sample,2025-08-20
+product,iPhone 15 Pro 128GB,Apple,IP15P-128,United States,New York,USD,999,unit,retail_sample,2025-08-20
+product,iPhone 15 Pro 128GB,Apple,IP15P-128,United Arab Emirates,Dubai,AED,4199,unit,retail_sample,2025-08-20
+product,iPhone 15 Pro 128GB,Apple,IP15P-128,France,Paris,EUR,1199,unit,retail_sample,2025-08-20
+product,iPhone 15 Pro 128GB,Apple,IP15P-128,Hong Kong,Hong Kong,HKD,8599,unit,retail_sample,2025-08-20
+product,Rolex Submariner 124060,Rolex,RLX124060,Switzerland,Zurich,CHF,8400,unit,retail_sample,2025-08-20
+product,Rolex Submariner 124060,Rolex,RLX124060,United States,Miami,USD,9150,unit,retail_sample,2025-08-20
+product,Rolex Submariner 124060,Rolex,RLX124060,United Arab Emirates,Dubai,AED,32000,unit,retail_sample,2025-08-20
+product,Rolex Submariner 124060,Rolex,RLX124060,France,Paris,EUR,9550,unit,retail_sample,2025-08-20
+product,MacBook Air M3 13",Apple,MBAM3-13,Switzerland,Zurich,CHF,1099,unit,retail_sample,2025-08-20
+product,MacBook Air M3 13",Apple,MBAM3-13,United States,New York,USD,999,unit,retail_sample,2025-08-20
+product,MacBook Air M3 13",Apple,MBAM3-13,France,Paris,EUR,1199,unit,retail_sample,2025-08-20
+product,Dyson V15 Detect,Dyson,DYSV15,United States,New York,USD,749,unit,retail_sample,2025-08-20
+product,Dyson V15 Detect,Dyson,DYSV15,United Kingdom,London,GBP,629,unit,retail_sample,2025-08-20
+product,Dyson V15 Detect,Dyson,DYSV15,France,Paris,EUR,799,unit,retail_sample,2025-08-20
